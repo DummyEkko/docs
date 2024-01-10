@@ -1,11 +1,12 @@
-# 加载第一个字节所需时间 (TTFB)
+# TTFB（Time to frist byte
 
+加载第一个字节所需时间
 
 ## 什么是 TTFB？
 
   TTFB 是一个指标，用于测量资源请求与响应的第一个字节开始到达之间的时间。
 
-  ![网络请求阶段及其关联时间的图表。TTFB 测量 startTime 和 responseStart 之间的间隔时间。](https://web.dev/static/articles/ttfb/image/performance-navigation-timing-timestamp-diagram.svg?hl=zh-cn)
+  ![网络请求阶段及其关联时间的图表。TTFB 测量 startTime 和 responseStart 之间的间隔时间。](./assets/ttfb.png)
 
   TTFB 测量 startTime 和 responseStart 之间的间隔时间。
 
@@ -45,3 +46,9 @@
   ```
 
 ## 优化TTFB
+
+- 使用内容分发网络 (CDN)
+
+- 避免多次网页重定向
+
+- 尽可能使用缓存的内容

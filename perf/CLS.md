@@ -10,7 +10,7 @@
   <!-- <video src="https://web.dev/articles/cls/video/web-dev-assets/layout-instability-api/layout-instability-poster.png?hl=zh-cn"> -->
 
   <video autoplay="" controls="" height="510" loop="" muted="" poster="https://web.dev/articles/cls/video/web-dev-assets/layout-instability-api/layout-instability-poster.png?hl=zh-cn" width="658">
-    <source src="https://web.dev/static/articles/cls/video/web-dev-assets/layout-instability-api/layout-instability2.webm?hl=zh-cn" type="video/webm; codecs=vp8">
+    <source src="./assets/cls.mp4">
     <source src="https://web.dev/static/articles/cls/video/web-dev-assets/layout-instability-api/layout-instability2.mp4?hl=zh-cn" type="video/mp4; codecs=h264">
   </video>
 

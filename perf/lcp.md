@@ -8,11 +8,7 @@
 
   > 良好的用户体验 `lcp` 应该控制在 *2.5* 秒以内
 
-  ![img](./LCP.png)
-
-<!-- 
-  <img alt="来自 cnn.com 的 Largest Contentful Paint 时间轴" height="311" sizes="(max-width: 840px) 100vw, 856px" src="https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa.png?hl=zh-cn" srcset="https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_36.png?hl=zh-cn 36w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_48.png?hl=zh-cn 48w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_72.png?hl=zh-cn 72w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_96.png?hl=zh-cn 96w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_480.png?hl=zh-cn 480w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_720.png?hl=zh-cn 720w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_856.png?hl=zh-cn 856w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_960.png?hl=zh-cn 960w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_1440.png?hl=zh-cn 1440w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_1920.png?hl=zh-cn 1920w,https://web.dev/static/articles/lcp/image/largest-contentful-paint-fc43128e011aa_2880.png?hl=zh-cn 2880w" width="800"> -->
-
+  ![img](./assets/LCP.png)
 
   LCP 会考虑的元素包括：
 
