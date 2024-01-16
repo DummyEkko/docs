@@ -124,3 +124,5 @@ lighthouse
   - 在 `<script>` 标记中使用 async 或 defer 属性
   - 尽早建立与所需来源的连接
   - 延迟加载
+
+5. 字体优化
